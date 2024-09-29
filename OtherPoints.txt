@@ -1,0 +1,10 @@
+35.0964, -106.6511, Albuquerque Convention Center
+35.1700, -106.5900, Hotel Albuquerque at Old Town
+35.0944, -106.6917, Isleta Resort & Casino
+35.2083, -106.4694, Sandia Resort & Casino
+35.1544, -106.6231, El Pinto Restaurant
+35.1289, -106.6883, Los Poblanos Historic Inn & Organic Farm
+35.0986, -106.6381, The Kimo Theatre
+35.1081, -106.6656, The National Hispanic Cultural Center
+35.0961, -106.6364, Civic Plaza
+35.1222, -106.5800, Albuquerque Marriott

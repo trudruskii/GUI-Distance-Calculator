@@ -1,7 +1,7 @@
 # geo_points_list.py
 
 from tkinter import messagebox
-from Assignments.Library.GeoPoint import GeoPoint
+from Library.GeoPoint import GeoPoint
 
 class GeoPointsList:
     """Class to manage a list of GeoPoints."""
